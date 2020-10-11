@@ -1,0 +1,5 @@
+1. Save all the file(code.py, sampl_input.txt, sample_output.txt) in a same folder.
+2. open code.py in an python IDE or using Python compilers.
+3. Run Code.py 
+4. Changes made to sample_input.txt will lead to the different output which will get appended to saample_output.txt.
+5. Check for the output in sample_output.txt.

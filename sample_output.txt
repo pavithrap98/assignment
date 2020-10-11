@@ -1,0 +1,33 @@
+Number of employees: 3
+Here the goodies that are selected for distribution are:
+
+Macbook Pro: 229900
+Sandwich Toaster: 2195
+Scale: 4999
+
+And the difference between the chosen goodie with highest price and the lowest price is 227705
+
+Number of employees: 5
+Here the goodies that are selected for distribution are:
+
+Cult Pass: 2799
+Macbook Pro: 229900
+Sandwich Toaster: 2195
+Microwave Oven: 9800
+Scale: 4999
+
+And the difference between the chosen goodie with highest price and the lowest price is 227705
+
+Number of employees: 7
+Here the goodies that are selected for distribution are:
+
+IPods: 22349
+MI Band: 999
+Cult Pass: 2799
+Macbook Pro: 229900
+Digital Camera: 11101
+Alexa: 9999
+Scale: 4999
+
+And the difference between the chosen goodie with highest price and the lowest price is 228901
+
